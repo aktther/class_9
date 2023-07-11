@@ -1,0 +1,15 @@
+.dane{
+    text-align: right;
+}
+.bame{
+    text-align: left;
+}
+.centera{
+    text-align: center;
+}
+.heading{
+    font-size: 30px;
+    background-color: blue;
+    color: brown;
+    text-transform: capitalize;
+}
